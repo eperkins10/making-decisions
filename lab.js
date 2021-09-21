@@ -7,6 +7,7 @@
 */
 
 //CODE HERE
+//ADDING RANDOM COMMENT TO SEE IF I HAVE IT LINKED UP RIGHT
 
 // For problems 2-3 use the following lines of code:
 var amysAge = 29
